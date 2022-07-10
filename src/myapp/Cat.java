@@ -1,5 +1,6 @@
 package myapp;
 
-public class Cat implements Animal {
-        private String name;
+
+public class Cat extends Animal {
+
 }
